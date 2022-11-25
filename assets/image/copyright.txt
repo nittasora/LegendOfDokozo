@@ -1,0 +1,7 @@
+キャラチップ:
+尾羽の小屋(http://obane.tuzikaze.com/)
+グラフィック合成機(および同梱素材)(https://www.silversecond.com/WolfRPGEditor/)
+
+エフェクト:
+Effekseer
+tktkエフェクト(Effekseerサンプル素材)
